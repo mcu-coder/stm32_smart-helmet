@@ -1,0 +1,24 @@
+#include "stm32f10x.h"
+#include "led.h"
+#include "beep.h"
+#include "usart.h"
+#include "delay.h"
+#include "oled.h"
+#include "key.h"
+#include "Modules.h"
+#include "TIM2.h"
+#include "adcx.h"
+#include "flash.h"
+#include "usart2.h"
+#include "usart3.h"
+#include "max30102_read.h"
+#include "myiic.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "ds18b20.h"
+#include "string.h" 	
+#include "ultrasonic.h"
+#include "timer.h"
+#include "vibration.h"
+
